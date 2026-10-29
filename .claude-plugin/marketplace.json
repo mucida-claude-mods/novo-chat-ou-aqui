@@ -1,0 +1,16 @@
+{
+  "name": "novo-chat-ou-aqui",
+  "owner": {
+    "name": "Lucas Mucida"
+  },
+  "metadata": {
+    "description": "novo-chat-ou-aqui: a Claude Code mod."
+  },
+  "plugins": [
+    {
+      "name": "novo-chat-ou-aqui",
+      "source": "./",
+      "description": "Gives the agent a propor_desvio tool: when an extra step shows up mid-task, it compares the token cost of doing it in this chat or in a new one and recommends, with a ready handoff text."
+    }
+  ]
+}

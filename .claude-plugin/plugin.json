@@ -1,0 +1,17 @@
+{
+  "name": "novo-chat-ou-aqui",
+  "version": "0.2.0",
+  "description": "Gives the agent a propor_desvio tool: when an extra step shows up mid-task, it compares the token cost of doing it in this chat or in a new one and recommends, with a ready handoff text.",
+  "author": {
+    "name": "Lucas Mucida",
+    "url": "https://github.com/mucida-claude-mods"
+  },
+  "repository": "https://github.com/mucida-claude-mods/novo-chat-ou-aqui",
+  "license": "MIT",
+  "keywords": [
+    "context",
+    "tokens",
+    "cost",
+    "handoff"
+  ]
+}
